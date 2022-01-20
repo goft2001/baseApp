@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">즐겨찾기</string>
+    <string name="title_notifications">환경설정</string>
+</resources>
